@@ -6,12 +6,11 @@
     src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&pause=1000&color=ffffff&center=true&vCenter=true&repeat=true&width=435&lines=Hi!+This+is+Pranjal+Piyush." 
     alt="typewriter"
   />
-  <div>
-    Founder <a href="https://reframeart.studio" style="text-decoration: none; color: #ffffff;" target="_blank">ReFrame</a>.
-    Fueled by coffee, driven by curiosity. CS major and a creative soul exploring history.
-  </div>
   </div>
 </div>
+
+### Bio
+<h4>Founder @ReFrame. Fueled by coffee, driven by curiosity. CS major and a lover of exploring past. Currently indulging in selflearning</h4>
 
 ### Stats
 <p align="center">
@@ -21,8 +20,7 @@
     width="400" 
     height="170"
 />
-<img 
-  style="margin-left: -50px;"
+<img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=prnjxl&theme=react&layout=compact" 
   alt="Top languages" 
   width="400" 
@@ -50,9 +48,11 @@
 </a>
 
 ### Explore my daily activities on
-<a href="" target="_blank" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/pranjal-piyush/" target="_blank" style="text-decoration: none;">
   <img src="img/linkedin.png" alt="Email"  width="40" height="40" />
 </a>
 
+### See what I'm upto
+[![ReFrame Art Studio](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A//reframeart.studio&style=for-the-badge&label=ReFrame%20Studio)](https://reframeart.studio)
 
 </p>
