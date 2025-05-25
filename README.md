@@ -1,15 +1,15 @@
 
 <div align="center">
-  <img width="100px" style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/178582926?v=4" align="center" alt="prnjxl" />
+  <img width="100px" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/178582926?v=4" align="center" alt="prnjxl" />
   <div align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&pause=1000&color=ffffff&center=true&vCenter=true&repeat=true&width=435&lines=Hi!+This+is+Pranjal+Piyush." 
     alt="typewriter"
   />
-  <h3 style="margin-top: -15px;">
+  <div>
     Founder <a href="https://reframeart.studio" style="text-decoration: none; color: #ffffff;" target="_blank">ReFrame</a>.
     Fueled by coffee, driven by curiosity. CS major and a creative soul exploring history.
-  </h3>
+  </div>
   </div>
 </div>
 
