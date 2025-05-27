@@ -9,10 +9,15 @@
   </div>
 </div>
 
-### Bio
-<h4>Founder @ReFrame. Fueled by coffee, driven by curiosity. CS major and a lover of exploring past. Currently indulging in selflearning</h4>
+<h3 align="center">Bio</h3>
+<p>Founder @ReFrame. Fueled by coffee, driven by curiosity. CS major and a lover of exploring past. Currently indulging in self-learning and practicing DSA. If Interested reach me wherever you like!</p>
+
+
+<div align="center">
 
 ### Stats
+
+</div>
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=prnjxl&show_icons=true&theme=react" 
@@ -28,14 +33,21 @@
 />
 </p>
 
+<div align="center">
+
 ### Expertises in
+
+</div>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,mysql,mongodb,figma,py" />
 </p>
 
+<div align="center">
 
 ### Wanna stay connected
-<p align="left">
+
+</div>
+<div align="center">
   
 <a href="mailto:pranjalpiyush29@gmail.com" target="_blank" style="text-decoration: none;">
   <img src="img/gmail.png" alt="Email" width="50" height="30" />
@@ -55,4 +67,9 @@
 ### See what I'm upto
 [![ReFrame Art Studio](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A//reframeart.studio&style=for-the-badge&label=ReFrame%20Studio)](https://reframeart.studio)
 
-</p>
+
+### Support  
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/prnjxl)
+
+
+</div>
