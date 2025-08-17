@@ -13,7 +13,7 @@
 </div>
 
 <!-- Short Summary -->
-<div align="center"><img src="./img/Snap.png" height="500" width="auto"></div>
+empty
 
 <!-- Skills -->
 <h3 align="center">Skills</h3>
