@@ -13,7 +13,15 @@
 </div>
 
 <!-- Short Summary -->
-empty
+```javascript
+
+$ node about.js
+[ERROR] 404_ABOUT_NOT_FOUND
+Reason: The 'About' section is still cooking...
+Status: Owner busy stirring up something
+Fix: Check back later, chef’s in laboratory
+
+```
 
 <!-- Skills -->
 <h3 align="center">Skills</h3>
@@ -33,7 +41,7 @@ I have experience in core programming with indsustry wide used languages like `J
 <h3 align="center">Check out my Projects!</h3>
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Next.JS-ffffff?style=for-the-badge&logo=&logoColor=white" alt="Portfolio" /></a>
+  <a href="www.reframeart.studio"><img src="https://img.shields.io/badge/Portfolio-Next.JS-ffffff?style=for-the-badge&logo=&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/cyph3r-exe/pureplates"><img src="https://img.shields.io/badge/Pure%20Plates-HTML%20|%20CSS%20|%20JS-F3E2D4?style=for-the-badge&logo=&logoColor=white" alt="Food Allergy Tracker" /></a>
   <a href="https://github.com/prnjxl/wander-lust"><img src="https://img.shields.io/badge/Wanderlust-HTML%20|%20CSS%20|%20JS-C5B0CD?style=for-the-badge&logo=&logoColor=white" alt="AirBnb Clone" /></a>
   <a href="https://github.com/prnjxl/flappy-bird"><img src="https://img.shields.io/badge/Flappy%20Bird-Java-415E72?style=for-the-badge&logo=&logoColor=white" alt="Flappy Bird Game" /></a>
@@ -53,7 +61,7 @@ I have experience in core programming with indsustry wide used languages like `J
   <a href="https://www.instagram.com/prnjxl_/" ><img src="./img/instagram-brands-solid-full.svg" alt="Instagram" height="45"></a>
   <a href="#" ><img src="./img/spotify-brands-solid-full.svg" alt="Spotify" height="45"></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pranjalpiyush29@gmail.com&su=Hello%20Pranjal&body=Hi%20there%2C%0A%0AThis%20is%20a%20message." 
-  target="_blank" ><img src="./img/android-brands-solid-full.svg" alt="Google" height="45"></a>
+  target="_new" ><img src="./img/android-brands-solid-full.svg" alt="Google" height="45"></a>
 </div>
 <br>
 
