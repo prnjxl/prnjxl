@@ -17,7 +17,7 @@
 
 $ node about.js
 [ERROR] 404_ABOUT_NOT_FOUND
-Reason: The 'About' section is still cooking...
+Reason: 'About' section is still cooking...
 Status: Owner busy stirring up something
 Fix: Check back later, chef’s in laboratory
 
@@ -30,7 +30,8 @@ I have experience in core programming with indsustry wide used languages like `J
 <div>
     <br>
     <p align="center">
-        <img src="https://skillicons.dev/icons?i=java,py,html,css,bootstrap,js,react,nodejs,express,mysql,mongodb" height="40"/>
+        <img src="https://skillicons.dev/icons?i=java,py,html,css,bootstrap,js" height="40"/>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,mongodb" height="40"/>
         <img src="https://skillicons.dev/icons?i=docker,figma,git,github,md,aws" height="40"/>
     </p>
 </div>
