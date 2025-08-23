@@ -18,7 +18,7 @@
 $ node about.js
 [ERROR] 404_ABOUT_NOT_FOUND
 Reason: 'About' section is still cooking...
-Status: Owner busy stirring up something
+Status: Pranjal busy stirring up something
 Fix: Check back later, chef’s in laboratory
 
 ```
@@ -76,6 +76,18 @@ I have experience in core programming with indsustry wide used languages like `J
 
 <!-- Donations -->
 <div align="center">
-<h3>Support me 🤍</h3>
-<a href="https://www.buymeacoffee.com/prnjxl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" ></a>
+  <h3>🤍 Support Me</h3>
+  <p>
+    If you like my work, or simply want to appreciate my effort,
+    consider supporting me — it motivates me to keep creating and sharing! 🚀
+    Every small contribution means a lot and helps me continue learning,
+    building projects, and sharing knowledge with the community. ✨
+  </p>
+  <a href="https://www.buymeacoffee.com/prnjxl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45"></a>
+</div>
+
+<div>
+    <br>
+    <br>
+    <p align="center"><img width="450px" src="https://quotes-github-readme.vercel.app/api?quote=%20Bad%20Design%20is%20Everywhere,%20but%20Good%20Design%20is%20Invisible%20&author=Don%20Norman&type=horizontal&theme=dark" alt="Custom Quote"/></p>
 </div>
