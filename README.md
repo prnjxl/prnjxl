@@ -78,10 +78,7 @@ I have experience in core programming with indsustry wide used languages like `J
 <div align="center">
   <h3>🤍 Support Me</h3>
   <p>
-    If you like my work, or simply want to appreciate my effort,
-    consider supporting me — it motivates me to keep creating and sharing! 🚀
-    Every small contribution means a lot and helps me continue learning,
-    building projects, and sharing knowledge with the community. ✨
+    If you enjoy my work, consider supporting me — it keeps me motivated to learn, build, and share with the community! 🚀✨
   </p>
   <a href="https://www.buymeacoffee.com/prnjxl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45"></a>
 </div>
